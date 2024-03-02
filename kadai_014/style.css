@@ -9,6 +9,7 @@ h1{
   font-weight: <weight>;
   font-style: normal;
   font-size: 40px;
+  /*css下線*/
   border-bottom: 3px solid rgb(115, 115, 114);
   letter-spacing: 1.5em;
   text-shadow: 2px 2px 2px rgb(126, 120, 120);
